@@ -1,5 +1,7 @@
 [license]: https://github.com/HitchedSyringe/aoc/blob/main/LICENSE
 
+# Advent of Code
+
 My solutions for Advent of Code. This will be updated at my own pace.
 
 ## License
